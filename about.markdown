@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## About This Journal
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This journal is a space for reflection and growth. In these pages, I document my thoughts, struggles, and the lessons I learn as I navigate life's uncertainties. Each entry serves as a moment to pause, take a breath, and make sense of the ever-shifting path ahead.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+As I face challenges—both big and small—I strive to understand myself better, to find clarity in confusion, and to discover the strength to keep moving forward. This journal is a mirror, reflecting not just the events of my day, but the internal changes that shape me into who I am becoming.
 
-
-[jekyll-organization]: https://github.com/jekyll
+It is a record of moments of self-doubt, hope, and eventual progress, written one step at a time.
