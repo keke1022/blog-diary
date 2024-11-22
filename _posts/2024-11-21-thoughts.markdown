@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 3 of breaking up"
 date:   2024-11-21 16:02:49 -0500
-categories: jekyll update
+categories: diary
 ---
 
 Today marks the third day since the break up. Focus is gradually becoming easier for me, though I still spent the entire afternoon going through the Discussion Materials for Machine Learning. The content is incredibly challenging, filled with codes and new concepts. I remind myself that I need to be responsible, not only for students, but for myself as well.

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "My Motivation"
-date:   2024-11-21 16:02:49 -0500
-categories: jekyll update
+date:   2024-11-21 21:02:00 -0500
+categories: diary
 ---
 
 I decided to start this diary on November 19th, 2024. 

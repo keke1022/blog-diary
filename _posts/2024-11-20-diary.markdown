@@ -2,7 +2,7 @@
 layout: post
 title:  "Crossroads of Life"
 date:   2024-11-20 12:57:49 -0500
-categories: jekyll update
+categories: diary
 ---
 
 Today marked my **second visit to the dentist**. I am more familiar with the building's maze-like layout. The student dentists were kind and attentive, showing genuine concerns for my sore jaw. The doctor, on the other hand, was quite the jokester. He kept joking about my teeth. Knowing that I barely drink soda or eat sweets, he teased me about my habit of cakes and chocolates. "If you do not want to end up back here", he said with a grin, "stay away from cakes." I consented. **Maybe skipping cakes in the Bursley for dinner is not a good idea.**
