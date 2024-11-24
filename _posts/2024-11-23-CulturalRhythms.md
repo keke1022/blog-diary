@@ -5,6 +5,10 @@ date:   2024-11-23 22:52:00 -0500
 categories: diary
 ---
 
+I would say I feel better now. **I've come to realize that it’s not just the person I miss, but the shared stories we created together**. My memories are so vivid and enduring that I often recall moments I hadn't thought of in a long time. Perhaps, in a way, loss is just another form of gain.
+
+## Reflections on Cultural Rhythms
+
 Today, while waiting for a haircut, I noticed how different the experience is here compared to back home. In the U.S., getting a haircut often requires an appointment, and each customer is paired with a specific stylist. The process feels deliberate and personalized. Back in China, especially in Shanghai, most hair salons allow walk-ins, and the focus is on efficiency—getting as many customers served as quickly as possible.
 
 This small difference led me to reflect on **how cultural habits shape our daily lives**. In the U.S., **individual rights and privacy** are emphasized, which seems to influence how services are structured. Here, the slower pace allows for more attention to detail and a deeper, more personalized experience. In contrast, in China, the emphasis often leans toward **collective efficiency**, where speed and practicality take priority.
