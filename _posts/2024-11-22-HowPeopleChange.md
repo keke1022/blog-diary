@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Attempt to Deep Thinking: How People Change In Their Life"
-date:   2024-11-21 21:02:00 -0500
+date:   2024-11-22 21:02:00 -0500
 categories: diary
 ---
 
