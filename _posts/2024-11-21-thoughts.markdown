@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 3 of breaking up"
+title:  "Day 3"
 date:   2024-11-21 16:02:49 -0500
 categories: diary
 ---
