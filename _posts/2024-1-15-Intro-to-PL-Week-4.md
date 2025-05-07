@@ -1,8 +1,8 @@
 ---
-title: Intro_to_PL (Week 4)
-date: 2024-01-15 16:58:09
-tags : Programming Language
-categories : Programming Language
+layout: post
+title:  "Intro_to_PL (Week 4)"
+date:   2024-1-15
+categories: PL
 ---
 
 

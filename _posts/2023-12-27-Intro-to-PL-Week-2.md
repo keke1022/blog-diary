@@ -1,8 +1,8 @@
 ---
-title : Intro_to_PL (Week 2)
-tags : Programming Language
-categories : Programming Language
-date : 2023-12-27 09:00:00
+layout: post
+title:  "Intro_to_PL (Week 2)"
+date:   2023-12-27
+categories: PL
 ---
 
 # Build Compound Types
