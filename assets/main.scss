@@ -1,0 +1,47 @@
+@use "minima";
+
+// 覆盖主题变量
+$grey-color: #828282;
+$grey-color-light: color.adjust($grey-color, $lightness: 40%);
+$grey-color-dark: color.adjust($grey-color, $lightness: -25%);
+$text-color: #111111;
+$brand-color: #2a7ae2;
+
+// 自定义样式
+.site-header {
+  border-top: 5px solid $grey-color-dark;
+  border-bottom: 1px solid $grey-color-light;
+  min-height: 56px;
+  position: relative;
+}
+
+.site-title {
+  color: $grey-color-dark;
+  font-size: 26px;
+  font-weight: 300;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left;
+
+  &,
+  &:visited {
+    color: $grey-color-dark;
+  }
+}
+
+.post-content {
+  h2 {
+    font-size: 32px;
+    @include relative-font-size(1.75);
+  }
+
+  h3 {
+    font-size: 26px;
+    @include relative-font-size(1.375);
+  }
+
+  h4 {
+    font-size: 20px;
+    @include relative-font-size(1.125);
+  }
+} 
